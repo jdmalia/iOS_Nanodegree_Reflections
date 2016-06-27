@@ -13,3 +13,13 @@ It would be convenient to have a simple/intelligent tool to use for the fantasy 
 
 One way to get ideas for apps is to download Featured Apps on the app store.  One experienced developer said he downloads
 almost all of them.  They allow you to tap into the creativity of the community and to discover things you would have never thought of.
+
+Browse the Featured Apps in the App Store
+What ideas do you have?
+Find creative ways to use Siri
+Build an app for kids based on something (book/movie/show/etc) they are already familiar with. e.g. The Very Hungry Catepillar - Creative Play.
+- Build an app that utilizes the users imagination.
+I don't like simple utility apps.
+The childrens games appeal to me most.
+
+Build a Harry Potter inspired app.
