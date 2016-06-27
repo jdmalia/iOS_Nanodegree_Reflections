@@ -1,10 +1,10 @@
-What makes a "good" iOS App?
+What makes a "good" iOS App? <br>
 The apps I enjoy the most have a clean design with intuitive controls; I, as a user, can focus on the content of the app 
 without being distracted by the functionality.  My favorite app, Instagram, is a great example.  Its design allows me to 
 focus on the pictures, exploring different users, and giving/viewing feedback with little to no thought as to how to do 
 so.  In other words, the design makes using the app intuitive.
 
-Personal Motivation
+Personal Motivation<br>
 1) What are you most passionate about?  How might an app help?
 - Reading
 - Imagination
@@ -20,7 +20,7 @@ Personal Motivation
 One way to get ideas for apps is to download Featured Apps on the app store.  One experienced developer said he downloads
 almost all of them.  They allow you to tap into the creativity of the community and to discover things you would have never thought of.
 
-Browse the Featured Apps in the App Store
+Browse the Featured Apps in the App Store<br>
 What ideas do you have?
 - Find creative ways to use Siri
 - Build an app for kids based on something (book/movie/show/etc) they are already familiar with. e.g. The Very Hungry Catepillar - Creative Play.
