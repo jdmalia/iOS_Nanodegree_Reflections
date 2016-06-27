@@ -10,3 +10,6 @@ Reading, Imagination, Innocence, Love, Children's Entertainment, Christmas
 2) Where are there frustrations or pain points in your life?  How might an app help alleviate them?
 It would be nice to have a more customized entertainment experience based on my interests.
 It would be convenient to have a simple/intelligent tool to use for the fantasy football draft.
+
+One way to get ideas for apps is to download Featured Apps on the app store.  One experienced developer said he downloads
+almost all of them.  They allow you to tap into the creativity of the community and to discover things you would have never thought of.
