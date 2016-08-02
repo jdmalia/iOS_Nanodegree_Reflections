@@ -1,0 +1,1 @@
+A collections of my thoughts and responses to questions posed as I work through the iOS Developer Nanodegree from Udactiy.
